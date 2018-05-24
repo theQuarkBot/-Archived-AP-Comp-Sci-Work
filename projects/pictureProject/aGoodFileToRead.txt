@@ -1,0 +1,4 @@
+I would like to make some notes about this package:
+  -In this package, I often — if not only — used absolute paths instead of relative paths due to some computer problems; if you use this for your own use, you might want to consider changing that.
+  -I did not upload the pictures because they would have taken a reeeeeaaaalllllyyyy long time to upload... use your own images if you want to (and change the image that the classes are referring to while you're at it.
+  -More things to come (maybe).
